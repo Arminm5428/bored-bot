@@ -28,6 +28,10 @@ boredBtn.addEventListener("click", () => {
     body.style.backgroundImage = bgColors[Math.floor(Math.random() * 10)];
 })
 
+boredBtn.addEventListener("touchend", () => {
+    boredBtn.blur();
+})
+
 
 
 
