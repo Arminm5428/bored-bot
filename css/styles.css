@@ -53,6 +53,8 @@ body {
 
 @media ( orientation: portrait) {
     .bored-btn {
+        width: 200px;
+        height: 200px;
         order: 2;
     }
 }
