@@ -37,7 +37,7 @@ body {
     padding: 4em;
     border-radius: 50%;
     border: none;
-    background-image: linear-gradient(to bottom right, rgb(103, 0, 182), rgb(116, 0, 0));
+    background-image: linear-gradient(to bottom right, rgba(34, 0, 59, 0.9), rgba(53, 0, 0, 0.9));
     box-shadow: 0 0 5px aliceblue;
     transition: all 0.2s ease;
 }
