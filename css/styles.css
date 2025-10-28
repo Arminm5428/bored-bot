@@ -52,9 +52,18 @@ body {
 
 
 @media ( orientation: portrait) {
+
+    .heading {
+        font-size: 5rem;
+    }
+
+    .idea {
+        font-size: 3rem;
+    }
+
     .bored-btn {
-        width: 200px;
-        height: 200px;
+        width: 300px;
+        height: 300px;
         order: 2;
     }
 }
