@@ -34,7 +34,9 @@ body {
 }
 
 .bored-btn {
-    padding: 4em;
+    /* padding: 4em; */
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     border: none;
     background-image: linear-gradient(to bottom right, rgba(34, 0, 59, 0.9), rgba(53, 0, 0, 0.9));
@@ -49,7 +51,7 @@ body {
 }
 
 
-@media ( max-width: 600px) {
+@media ( orientation: portrait) {
     .bored-btn {
         order: 2;
     }
